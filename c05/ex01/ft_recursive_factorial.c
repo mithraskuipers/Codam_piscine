@@ -29,6 +29,7 @@ int		ft_recursive_factorial(int nb)
 	}
 	return (0);
 }
+
 /*
 **#include <stdio.h>
 **int		main(void)
